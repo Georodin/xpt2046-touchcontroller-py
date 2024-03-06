@@ -1,6 +1,7 @@
-# xpt4026-touchcontroller-py
+# xpt2046-touchcontroller-py
 
 A simple touch controller compatible with the [fbcp-ili9341](https://github.com/juj/fbcp-ili9341) display driver, designed for Raspberry Pi and tested with the [4.0inch SPI Module ST7796](http://www.lcdwiki.com/4.0inch_SPI_Module_ST7796) and Raspberry Pi Zero W. This controller utilizes the auxiliary SPI wiring of the Raspberry Pi.
+You will need a touch screen with a xpt2046 chipset.
 
 ## How to Use
 
